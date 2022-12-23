@@ -1,0 +1,31 @@
+
+
+
+.eee {
+    width: 800px;
+    height: 200px;
+    border-radius: 3px;
+    box-shadow: 0 2px 12px 0 rgba(0,0,0,.4);
+    margin-top: 20%;
+    margin-left: 25%;
+    
+  }
+  
+  .aaa {
+    height: 60px;
+    text-align: center;
+    background: red;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 700px 35px;
+  }
+
+  .qqq {
+    margin-left: 10%;
+  }
+  
+  .uuu {
+    color: white;
+    background-color: green;
+    margin-left: 74%;
+  }

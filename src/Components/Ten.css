@@ -1,0 +1,113 @@
+.nav{
+    height: 50px;
+    background-color: red;
+    top: 0;
+}
+h6{
+    font-size: large;
+    margin-top: -28px;
+    margin-right: 1200px ;
+    color: white;
+}
+h4{
+    margin-top: -65px;
+    color: white;
+}
+h3{
+    margin-left: 1000px;
+    margin-top: -40px;
+    color: white;
+}
+.placed{
+    margin-left: 1340px;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.moves{
+    height: 25px;
+    width: 25px;   
+   
+}
+.abb{
+    height: 25px;
+ 
+    width: 25px;
+  margin-right: 1450px;
+    margin-top: 10px;
+}
+.tik1{
+    margin-top: 30px;
+   
+    display: flex;
+    margin-left: 30px;
+   
+}
+.ab1{
+    background-color: skyblue;
+    border: 0.2px solid gray;
+   
+}
+.ab2{
+    background-color: skyblue;
+    border: 0.2px solid gray;
+    
+}
+.tokk{
+    margin-left: 25px;
+    gap: 10px;
+}
+.top{
+    margin-left: 10px;
+}
+/* third section */
+
+.thirdrow{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 25px;
+    gap: 18px;
+}
+/* fourth section */
+
+.tok8{
+    
+    margin-left: -1300px;
+    margin-top: 50px;
+    }
+/* 
+    next section */
+    .tok11{
+        margin-top: 35px;
+        margin-left: 30px;
+    }
+    
+thead{
+    background-color: grey;
+    color: white;
+}
+tbody{
+    background-color: bisque;
+}
+th,td{
+    border: 1px solid black;
+    height: 40px;
+    width: 110px;
+
+}
+table{
+    border-collapse: collapse;
+}
+.tiktik{
+    margin-left: 950px;
+    margin-top: -25px;
+}
+.hii{
+background-color: red;
+color: white;
+}
+.hlo{
+    background-color: green;
+color: white;
+margin-left: 10px;
+
+}

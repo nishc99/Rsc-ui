@@ -1,23 +1,22 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+//import Last from './Components/Last';
+import Pop3 from './Components/Pop3';
+//import Login from './Components/Login';
+//import Pop2 from './Components/Pop2';
+//import Pop from './Components/Pop';
+//import Ten from './Components/Ten';
 
-function App() {
+const App = () => { 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Pop3/>
+      
+      
+      
+      
+      
+      
     </div>
   );
 }

@@ -1,0 +1,93 @@
+.nav{
+    height: 50px;
+    background-color: red;
+    top: 0;
+}
+h6{
+    font-size: large;
+    margin-top: -28px;
+    margin-right: 1200px ;
+    color: white;
+}
+h4{
+    margin-top: -65px;
+    color: white;
+}
+h3{
+    margin-left: 1000px;
+    margin-top: -40px;
+    color: white;
+}
+.placed{
+    margin-left: 1340px;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.moves{
+    height: 25px;
+    width: 25px;   
+   
+}
+.abb{
+    height: 25px;
+ 
+    width: 25px;
+  margin-right: 1450px;
+    margin-top: 10px;
+}
+.second{
+    margin-left: -800px;
+    margin-top: 40px;
+}
+.pkk{
+    background-color: rgb(5, 126, 174);
+}
+.sec{
+    margin-left: 10px;
+    width: 400px;
+}
+.third{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 30px;
+    gap: 40px;
+}
+.okk{
+    width: 250px;
+}
+.four{
+    display: flex;
+    gap: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.opp{
+    width: 400px;
+}
+.five{
+    margin-top: 80px;
+    margin-left: -1250px;
+}
+.six{
+    height: 300px;
+    width: 1200px;
+    border: 0.2px solid gray;
+    margin-left: 75px;
+    margin-top: 30px;
+
+}
+thead{
+    height: 50px;
+    
+    background-color: gray;
+    border-collapse: collapse;
+    
+}
+.move{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+th{
+    width: 1200px;
+}

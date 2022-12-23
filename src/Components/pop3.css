@@ -1,0 +1,22 @@
+.eee {
+    width: 400px;
+    height: 150px;
+    border-radius: 3px;
+    box-shadow: 0 2px 12px 0 rgba(0,0,0,.4);
+    margin-top: 20%;
+    margin-left: 25%;
+    
+  }
+  
+  .aaa {
+    height: 60px;
+    text-align: center;
+    background: red;
+    overflow: hidden;
+    
+  }
+
+  .qwe {
+   padding-top: 40px;
+
+  }

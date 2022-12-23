@@ -1,0 +1,16 @@
+.nkl1 {
+    width: 620px;
+    height: 200px;
+    border-radius: 3px;
+    margin-top: 20%;
+    margin-left: 25%;
+}
+
+.nkl {
+    height: 60px;
+    text-align: center;
+    background: green;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 80px 500px 40px;
+}
