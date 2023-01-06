@@ -1,4 +1,4 @@
-.eee {
+.eee-sn {
     width: 400px;
     height: 150px;
     border-radius: 3px;
@@ -8,7 +8,7 @@
     
   }
   
-  .aaa {
+  .aaa-sn {
     height: 60px;
     text-align: center;
     background: red;
@@ -16,7 +16,7 @@
     
   }
 
-  .qwe {
+  .qwe-sn {
    padding-top: 40px;
 
   }

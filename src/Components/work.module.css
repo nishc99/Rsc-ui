@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.numeric {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_wAqPr6COkMcidg-kZ0Od0vXw8BkHVWHuA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.first {
+    color: blue;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    
+}
+
+.sectop {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.sectopp {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.second {
+    color:blue;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+
+.sectopp1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+}
+
+.sectopp2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    border: 1px ridge white;
+    height: 30px;
+    width: 1200px;
+    margin-left: 10px;
+    background-color: aliceblue;
+}
+
+.sectopp3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;  
+    border: 1px ridge white;
+    height: 30px;
+    width: 1200px;
+    margin-left: 10px;
+    background-color: aliceblue;
+}   
+
+.back {
+    margin-top: 100px;
+    display: flex;
+    cursor: pointer;
+
+}
+
+.backbut {
+    background-color: red;
+    color: aliceblue;
+    border: 0ch;
+    cursor: pointer;
+    width: 60px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.backbut:hover {
+    color: black;
+}
